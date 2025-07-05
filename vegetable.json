@@ -1,0 +1,394 @@
+[
+  {
+    "vegetable_name": "Картопля",
+    "vegetable_price": "12.5₴",
+    "vegetable_harvest": "2024-09-10",
+    "production_name": "АгроСвіт",
+    "production_popularity": "Висока",
+    "production_delivery": "2024-09-15"
+  },
+  {
+    "vegetable_name": "Морква",
+    "vegetable_price": "9.0₴",
+    "vegetable_harvest": "2024-08-20",
+    "production_name": "Зелений Рай",
+    "production_popularity": "Середня",
+    "production_delivery": "2024-08-25"
+  },
+  {
+    "vegetable_name": "Цибуля",
+    "vegetable_price": "7.8₴",
+    "vegetable_harvest": "2024-07-15",
+    "production_name": "EcoFarms",
+    "production_popularity": "Низька",
+    "production_delivery": "2024-07-20"
+  },
+  {
+    "vegetable_name": "Помідор",
+    "vegetable_price": "25.0₴",
+    "vegetable_harvest": "2024-07-25",
+    "production_name": "Сонячний Урожай",
+    "production_popularity": "Висока",
+    "production_delivery": "2024-07-30"
+  },
+  {
+    "vegetable_name": "Огірок",
+    "vegetable_price": "18.0₴",
+    "vegetable_harvest": "2024-07-10",
+    "production_name": "Свіжі Грядки",
+    "production_popularity": "Висока",
+    "production_delivery": "2024-07-15"
+  },
+  {
+    "vegetable_name": "Капуста",
+    "vegetable_price": "10.0₴",
+    "vegetable_harvest": "2024-09-01",
+    "production_name": "Поліська Нива",
+    "production_popularity": "Середня",
+    "production_delivery": "2024-09-06"
+  },
+  {
+    "vegetable_name": "Перець солодкий",
+    "vegetable_price": "30.0₴",
+    "vegetable_harvest": "2024-08-05",
+    "production_name": "АгроПрогрес",
+    "production_popularity": "Висока",
+    "production_delivery": "2024-08-10"
+  },
+  {
+    "vegetable_name": "Баклажан",
+    "vegetable_price": "22.0₴",
+    "vegetable_harvest": "2024-08-15",
+    "production_name": "Фермерське Господарство 'Добробут'",
+    "production_popularity": "Середня",
+    "production_delivery": "2024-08-20"
+  },
+  {
+    "vegetable_name": "Буряк",
+    "vegetable_price": "8.5₴",
+    "vegetable_harvest": "2024-09-20",
+    "production_name": "Натуральні Продукти",
+    "production_popularity": "Низька",
+    "production_delivery": "2024-09-25"
+  },
+  {
+    "vegetable_name": "Часник",
+    "vegetable_price": "45.0₴",
+    "vegetable_harvest": "2024-07-05",
+    "production_name": "Часниковий Король",
+    "production_popularity": "Висока",
+    "production_delivery": "2024-07-10"
+  },
+  {
+    "vegetable_name": "Кукурудза",
+    "vegetable_price": "15.0₴",
+    "vegetable_harvest": "2024-08-01",
+    "production_name": "Золотий Качан",
+    "production_popularity": "Середня",
+    "production_delivery": "2024-08-06"
+  },
+  {
+    "vegetable_name": "Гарбуз",
+    "vegetable_price": "11.0₴",
+    "vegetable_harvest": "2024-10-01",
+    "production_name": "Бабусин Сад",
+    "production_popularity": "Середня",
+    "production_delivery": "2024-10-06"
+  },
+  {
+    "vegetable_name": "Кабачок",
+    "vegetable_price": "16.0₴",
+    "vegetable_harvest": "2024-07-20",
+    "production_name": "Літня Свіжість",
+    "production_popularity": "Висока",
+    "production_delivery": "2024-07-25"
+  },
+  {
+    "vegetable_name": "Броколі",
+    "vegetable_price": "35.0₴",
+    "vegetable_harvest": "2024-09-05",
+    "production_name": "Зелені Вітаміни",
+    "production_popularity": "Висока",
+    "production_delivery": "2024-09-10"
+  },
+  {
+    "vegetable_name": "Цвітна капуста",
+    "vegetable_price": "32.0₴",
+    "vegetable_harvest": "2024-09-15",
+    "production_name": "ЕкоСмак",
+    "production_popularity": "Середня",
+    "production_delivery": "2024-09-20"
+  },
+  {
+    "vegetable_name": "Шпинат",
+    "vegetable_price": "28.0₴",
+    "vegetable_harvest": "2024-06-30",
+    "production_name": "Здорова Їжа",
+    "production_popularity": "Висока",
+    "production_delivery": "2024-07-05"
+  },
+  {
+    "vegetable_name": "Кріп",
+    "vegetable_price": "14.0₴",
+    "vegetable_harvest": "2024-07-01",
+    "production_name": "Духмяні Трави",
+    "production_popularity": "Висока",
+    "production_delivery": "2024-07-06"
+  },
+  {
+    "vegetable_name": "Петрушка",
+    "vegetable_price": "13.0₴",
+    "vegetable_harvest": "2024-07-01",
+    "production_name": "Духмяні Трави",
+    "production_popularity": "Висока",
+    "production_delivery": "2024-07-06"
+  },
+  {
+    "vegetable_name": "Редиска",
+    "vegetable_price": "17.0₴",
+    "vegetable_harvest": "2024-06-25",
+    "production_name": "Весняний Сад",
+    "production_popularity": "Середня",
+    "production_delivery": "2024-06-30"
+  },
+  {
+    "vegetable_name": "Перець чилі",
+    "vegetable_price": "40.0₴",
+    "vegetable_harvest": "2024-08-20",
+    "production_name": "Вогняний Смак",
+    "production_popularity": "Низька",
+    "production_delivery": "2024-08-25"
+  },
+  {
+    "vegetable_name": "Цукіні",
+    "vegetable_price": "19.0₴",
+    "vegetable_harvest": "2024-07-28",
+    "production_name": "Смачна Грядка",
+    "production_popularity": "Висока",
+    "production_delivery": "2024-08-02"
+  },
+  {
+    "vegetable_name": "Салат листовий",
+    "vegetable_price": "20.0₴",
+    "vegetable_harvest": "2024-07-01",
+    "production_name": "Хрумкий Лист",
+    "production_popularity": "Висока",
+    "production_delivery": "2024-07-06"
+  },
+  {
+    "vegetable_name": "Артишок",
+    "vegetable_price": "55.0₴",
+    "vegetable_harvest": "2024-09-01",
+    "production_name": "Екзотика Саду",
+    "production_popularity": "Низька",
+    "production_delivery": "2024-09-06"
+  },
+  {
+    "vegetable_name": "Мангольд",
+    "vegetable_price": "26.0₴",
+    "vegetable_harvest": "2024-07-10",
+    "production_name": "Зелений Дім",
+    "production_popularity": "Середня",
+    "production_delivery": "2024-07-15"
+  },
+  {
+    "vegetable_name": "Горох",
+    "vegetable_price": "18.0₴",
+    "vegetable_harvest": "2024-07-05",
+    "production_name": "Польові Дари",
+    "production_popularity": "Висока",
+    "production_delivery": "2024-07-10"
+  },
+  {
+    "vegetable_name": "Квасоля стручкова",
+    "vegetable_price": "23.0₴",
+    "vegetable_harvest": "2024-08-10",
+    "production_name": "Лісові Багатства",
+    "production_popularity": "Середня",
+    "production_delivery": "2024-08-15"
+  },
+  {
+    "vegetable_name": "Ревень",
+    "vegetable_price": "21.0₴",
+    "vegetable_harvest": "2024-06-20",
+    "production_name": "Смачний Кущ",
+    "production_popularity": "Низька",
+    "production_delivery": "2024-06-25"
+  },
+  {
+    "vegetable_name": "Спаржа",
+    "vegetable_price": "60.0₴",
+    "vegetable_harvest": "2024-05-15",
+    "production_name": "Преміум Урожай",
+    "production_popularity": "Висока",
+    "production_delivery": "2024-05-20"
+  },
+  {
+    "vegetable_name": "Рукола",
+    "vegetable_price": "29.0₴",
+    "vegetable_harvest": "2024-07-05",
+    "production_name": "Італійські Трави",
+    "production_popularity": "Висока",
+    "production_delivery": "2024-07-10"
+  },
+  {
+    "vegetable_name": "Латук",
+    "vegetable_price": "19.5₴",
+    "vegetable_harvest": "2024-07-08",
+    "production_name": "Свіжий Лист",
+    "production_popularity": "Середня",
+    "production_delivery": "2024-07-13"
+  },
+  {
+    "vegetable_name": "Пастернак",
+    "vegetable_price": "14.0₴",
+    "vegetable_harvest": "2024-10-10",
+    "production_name": "Земляні Корені",
+    "production_popularity": "Низька",
+    "production_delivery": "2024-10-15"
+  },
+  {
+    "vegetable_name": "Селера коренева",
+    "vegetable_price": "16.0₴",
+    "vegetable_harvest": "2024-09-25",
+    "production_name": "Кореневі Скарби",
+    "production_popularity": "Середня",
+    "production_delivery": "2024-09-30"
+  },
+  {
+    "vegetable_name": "Цибуля порей",
+    "vegetable_price": "24.0₴",
+    "vegetable_harvest": "2024-09-01",
+    "production_name": "Джерело Вітамінів",
+    "production_popularity": "Середня",
+    "production_delivery": "2024-09-06"
+  },
+  {
+    "vegetable_name": "Кале",
+    "vegetable_price": "38.0₴",
+    "vegetable_harvest": "2024-09-10",
+    "production_name": "Здоровий Вибір",
+    "production_popularity": "Висока",
+    "production_delivery": "2024-09-15"
+  },
+  {
+    "vegetable_name": "Брюссельська капуста",
+    "vegetable_price": "33.0₴",
+    "vegetable_harvest": "2024-10-05",
+    "production_name": "Смачні Дрібниці",
+    "production_popularity": "Середня",
+    "production_delivery": "2024-10-10"
+  },
+  {
+    "vegetable_name": "Фенхель",
+    "vegetable_price": "27.0₴",
+    "vegetable_harvest": "2024-08-25",
+    "production_name": "Ароматні Овочі",
+    "production_popularity": "Низька",
+    "production_delivery": "2024-08-30"
+  },
+  {
+    "vegetable_name": "Батат",
+    "vegetable_price": "42.0₴",
+    "vegetable_harvest": "2024-10-15",
+    "production_name": "Солодкий Корень",
+    "production_popularity": "Висока",
+    "production_delivery": "2024-10-20"
+  },
+  {
+    "vegetable_name": "Імбир",
+    "vegetable_price": "70.0₴",
+    "vegetable_harvest": "2024-11-01",
+    "production_name": "Східні Спеції",
+    "production_popularity": "Висока",
+    "production_delivery": "2024-11-06"
+  },
+  {
+    "vegetable_name": "Хрін",
+    "vegetable_price": "30.0₴",
+    "vegetable_harvest": "2024-09-20",
+    "production_name": "Гострий Корінь",
+    "production_popularity": "Низька",
+    "production_delivery": "2024-09-25"
+  },
+  {
+    "vegetable_name": "Перець болгарський",
+    "vegetable_price": "28.0₴",
+    "vegetable_harvest": "2024-08-01",
+    "production_name": "Барвистий Урожай",
+    "production_popularity": "Висока",
+    "production_delivery": "2024-08-06"
+  },
+  {
+    "vegetable_name": "Буряк цукровий",
+    "vegetable_price": "6.0₴",
+    "vegetable_harvest": "2024-10-20",
+    "production_name": "Цукрові Поля",
+    "production_popularity": "Низька",
+    "production_delivery": "2024-10-25"
+  },
+  {
+    "vegetable_name": "Кресс-салат",
+    "vegetable_price": "20.0₴",
+    "vegetable_harvest": "2024-06-28",
+    "production_name": "Водяний Сад",
+    "production_popularity": "Середня",
+    "production_delivery": "2024-07-03"
+  },
+  {
+    "vegetable_name": "Капуста пекінська",
+    "vegetable_price": "17.0₴",
+    "vegetable_harvest": "2024-08-15",
+    "production_name": "Азіатські Овочі",
+    "production_popularity": "Висока",
+    "production_delivery": "2024-08-20"
+  },
+  {
+    "vegetable_name": "Квіти цукіні",
+    "vegetable_price": "40.0₴",
+    "vegetable_harvest": "2024-07-10",
+    "production_name": "Вишуканий Смак",
+    "production_popularity": "Низька",
+    "production_delivery": "2024-07-15"
+  },
+  {
+    "vegetable_name": "Турнепс",
+    "vegetable_price": "11.0₴",
+    "vegetable_harvest": "2024-09-05",
+    "production_name": "Стародавні Корені",
+    "production_popularity": "Низька",
+    "production_delivery": "2024-09-10"
+  },
+  {
+    "vegetable_name": "Ендивій",
+    "vegetable_price": "25.0₴",
+    "vegetable_harvest": "2024-08-30",
+    "production_name": "Гіркі Трави",
+    "production_popularity": "Низька",
+    "production_delivery": "2024-09-04"
+  },
+  {
+    "vegetable_name": "Ботва буряка",
+    "vegetable_price": "10.0₴",
+    "vegetable_harvest": "2024-07-01",
+    "production_name": "Здорова Зелень",
+    "production_popularity": "Середня",
+    "production_delivery": "2024-07-06"
+  },
+  {
+    "vegetable_name": "Кмин",
+    "vegetable_price": "35.0₴",
+    "vegetable_harvest": "2024-07-20",
+    "production_name": "Пряні Смаки",
+    "production_popularity": "Низька",
+    "production_delivery": "2024-07-25"
+  },
+  {
+    "vegetable_name": "Топінамбур",
+    "vegetable_price": "15.0₴",
+    "vegetable_harvest": "2024-10-25",
+    "production_name": "Земляна Груша",
+    "production_popularity": "Середня",
+    "production_delivery": "2024-10-30"
+  }
+]
